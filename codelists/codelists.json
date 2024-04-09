@@ -1,0 +1,16 @@
+{
+  "files": {
+    "opensafely-asthma-inhaler-salbutamol-medication.csv": {
+      "id": "opensafely/asthma-inhaler-salbutamol-medication/2020-04-15",
+      "url": "https://www.opencodelists.org/codelist/opensafely/asthma-inhaler-salbutamol-medication/2020-04-15/",
+      "downloaded_at": "2024-03-13 17:04:19.236457Z",
+      "sha": "1938865a29f7db8993532aba4d0cde68117c643b"
+    },
+    "opensafely-ethnicity.csv": {
+      "id": "opensafely/ethnicity/2020-04-27",
+      "url": "https://www.opencodelists.org/codelist/opensafely/ethnicity/2020-04-27/",
+      "downloaded_at": "2023-10-02 10:13:20.621822Z",
+      "sha": "3d2f3998b71863a80b24d60f6f4282e14191ae13"
+    }
+  }
+}
